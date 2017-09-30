@@ -1,3 +1,3 @@
 # QuickTutorials
 
-- Events and Event Handlrs
+- Events and Event Handlers
